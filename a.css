@@ -27,6 +27,7 @@ body{
     animation-iteration-count: infinite;
     animation-timing-function: linear;
   }
+
   .yin-yang::before {
     content: "";
     position: absolute;
@@ -39,6 +40,7 @@ body{
     height: 12px;
     box-sizing: content-box;
   }
+  
   .yin-yang::after {
     content: "";
     position: absolute;
